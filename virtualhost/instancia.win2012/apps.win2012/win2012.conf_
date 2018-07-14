@@ -1,0 +1,10 @@
+
+#alias /win2012 http://192.168.1.130/
+#alias */win2012 /opt
+
+#RewriteEngine on
+#RewriteCond %HTTPS !=on
+#RewriteCond %{HTTP_HOST} =raspberrypidpm2.ddns.net
+#RewriteRule ^/win2012 http://
+ProxyPass "/win2012" "http://192.168.1.130:80/"
+ProxyPassReverse "/win2012" "http://192.168.1.130:80/"

@@ -1,0 +1,1215 @@
+[Wed Apr 11 11:15:34.656812 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Wed Apr 11 11:15:34.659142 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Apr 11 11:15:34.659171 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 11 20:41:42.416917 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Apr 11 20:41:42.489377 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Wed Apr 11 20:41:42.494422 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Apr 11 20:41:42.494441 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 11 20:41:42.494466 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 5195)
+[Wed Apr 11 20:41:42.494484 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 5196)
+[Wed Apr 11 21:00:43.369022 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Apr 11 21:00:43.429487 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Wed Apr 11 21:00:43.430665 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Apr 11 21:00:43.430679 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 11 21:00:43.430701 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 24986)
+[Wed Apr 11 21:00:43.430716 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 24987)
+[Wed Apr 11 21:01:12.327123 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Apr 11 21:01:12.390718 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Wed Apr 11 21:01:12.391847 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Apr 11 21:01:12.391863 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 11 21:01:12.391878 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 25285)
+[Wed Apr 11 21:01:12.391889 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 25286)
+[Wed Apr 11 21:03:40.580090 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Apr 11 21:03:40.645309 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Wed Apr 11 21:03:40.646488 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Apr 11 21:03:40.646502 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 11 21:03:40.646518 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 25391)
+[Wed Apr 11 21:03:40.646529 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 25392)
+[Wed Apr 11 21:32:33.392786 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Apr 11 21:32:33.456131 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Wed Apr 11 21:32:33.457333 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Apr 11 21:32:33.457348 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 11 21:32:33.457364 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 25518)
+[Wed Apr 11 21:32:33.457375 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 25519)
+[Wed Apr 11 21:35:28.022197 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Apr 11 21:35:28.086088 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Wed Apr 11 21:35:28.087262 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Apr 11 21:35:28.087277 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 11 21:35:28.087293 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 25858)
+[Wed Apr 11 21:35:28.087304 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 25859)
+[Wed Apr 11 21:37:00.657738 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Apr 11 21:37:00.720758 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Wed Apr 11 21:37:00.721952 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Apr 11 21:37:00.721967 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 11 21:37:00.721983 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 25987)
+[Wed Apr 11 21:37:00.721994 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 25988)
+[Thu Apr 12 13:11:07.090358 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 13:11:07.151124 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 13:11:07.152431 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 13:11:07.152447 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 13:11:07.152473 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 26105)
+[Thu Apr 12 13:11:07.152490 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 26106)
+[Thu Apr 12 13:15:31.655231 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 13:15:31.716237 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 13:15:31.717478 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 13:15:31.717502 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 13:15:31.717518 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 1653)
+[Thu Apr 12 13:15:31.717528 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 1654)
+[Thu Apr 12 13:17:12.533234 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 13:17:12.598083 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 13:17:12.599328 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 13:17:12.599342 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 13:17:12.599358 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 1805)
+[Thu Apr 12 13:17:12.599369 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 1806)
+[Thu Apr 12 13:30:46.160880 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 13:30:46.225238 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 13:30:46.226482 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 13:30:46.226496 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 13:30:46.226513 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 1954)
+[Thu Apr 12 13:30:46.226524 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 1955)
+[Thu Apr 12 13:31:32.286000 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 13:31:32.349887 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 13:31:32.351090 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 13:31:32.351104 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 13:31:32.351119 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2327)
+[Thu Apr 12 13:31:32.351131 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2328)
+[Thu Apr 12 13:36:07.277470 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 13:36:07.341791 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 13:36:07.343040 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 13:36:07.343054 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 13:36:07.343071 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2442)
+[Thu Apr 12 13:36:07.343091 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2443)
+[Thu Apr 12 13:37:05.568487 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 13:37:05.631814 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 13:37:05.633018 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 13:37:05.633032 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 13:37:05.633048 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2606)
+[Thu Apr 12 13:37:05.633059 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2607)
+[Thu Apr 12 13:37:44.519977 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 13:37:44.583834 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 13:37:44.585035 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 13:37:44.585049 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 13:37:44.585065 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2717)
+[Thu Apr 12 13:37:44.585076 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2718)
+[Thu Apr 12 15:29:24.893833 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 15:29:24.958281 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 15:29:24.959519 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 15:29:24.959533 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 15:29:24.959550 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2827)
+[Thu Apr 12 15:29:24.959561 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2828)
+[Thu Apr 12 15:33:44.141014 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 15:33:44.201585 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 15:33:44.202778 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 15:33:44.202792 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 15:33:44.202809 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 4196)
+[Thu Apr 12 15:33:44.202821 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 4197)
+[Thu Apr 12 16:14:00.727511 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 16:14:00.788108 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 16:14:00.789303 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 16:14:00.789317 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 16:14:00.789333 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 4335)
+[Thu Apr 12 16:14:00.789343 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 4336)
+[Thu Apr 12 17:11:46.411639 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 17:11:46.477276 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 17:11:46.478328 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 17:11:46.478341 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 17:11:46.478356 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 4820)
+[Thu Apr 12 17:11:46.478366 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 4821)
+[Thu Apr 12 17:32:59.668654 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 17:32:59.729644 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 17:32:59.730902 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 17:32:59.730916 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 17:32:59.730933 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 5479)
+[Thu Apr 12 17:32:59.730944 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 5480)
+[Thu Apr 12 19:20:44.146771 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 19:20:44.207352 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 19:20:44.208620 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 19:20:44.208636 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 19:20:44.208652 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 5797)
+[Thu Apr 12 19:20:44.208663 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 5798)
+[Thu Apr 12 19:29:52.994766 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 19:29:53.061238 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 19:29:53.062483 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 19:29:53.062497 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 19:29:53.062513 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 6568)
+[Thu Apr 12 19:29:53.062535 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 6569)
+[Thu Apr 12 19:40:42.745083 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 19:40:42.810206 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 19:40:42.811459 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 19:40:42.811472 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 19:40:42.811489 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 6832)
+[Thu Apr 12 19:40:42.811501 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 6833)
+[Thu Apr 12 19:42:23.624952 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 19:42:23.689074 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 19:42:23.690332 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 19:42:23.690347 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 19:42:23.690363 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 7395)
+[Thu Apr 12 19:42:23.690375 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 7396)
+[Thu Apr 12 19:43:42.902312 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 19:43:42.966221 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 19:43:42.967469 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 19:43:42.967483 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 19:43:42.967499 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 7528)
+[Thu Apr 12 19:43:42.967511 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 7529)
+[Thu Apr 12 19:59:14.890230 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 19:59:14.950437 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 19:59:14.951793 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 19:59:14.951809 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 19:59:14.951825 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 7654)
+[Thu Apr 12 19:59:14.951837 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 7655)
+[Thu Apr 12 20:01:01.469065 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:01:01.533763 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:01:01.534963 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:01:01.534977 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:01:01.534992 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 7892)
+[Thu Apr 12 20:01:01.535003 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 7893)
+[Thu Apr 12 20:29:44.562664 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:29:44.626567 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:29:44.627846 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:29:44.627862 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:29:44.627878 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 8010)
+[Thu Apr 12 20:29:44.627889 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 8011)
+[Thu Apr 12 20:30:18.578521 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:30:18.644272 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:30:18.645464 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:30:18.645477 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:30:18.645493 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 8407)
+[Thu Apr 12 20:30:18.645505 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 8408)
+[Thu Apr 12 20:31:33.346669 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:31:33.410490 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:31:33.411781 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:31:33.411797 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:31:33.411814 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 8517)
+[Thu Apr 12 20:31:33.411824 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 8518)
+[Thu Apr 12 20:40:59.461408 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:40:59.525945 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:40:59.527212 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:40:59.527226 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:40:59.527255 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 8648)
+[Thu Apr 12 20:40:59.527265 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 8649)
+[Thu Apr 12 20:41:31.962510 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:41:32.025781 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:41:32.026985 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:41:32.026998 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:41:32.027014 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 8892)
+[Thu Apr 12 20:41:32.027024 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 8893)
+[Thu Apr 12 20:43:41.752191 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:43:41.812738 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:43:41.813996 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:43:41.814010 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:43:41.814033 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9000)
+[Thu Apr 12 20:43:41.814048 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9001)
+[Thu Apr 12 20:44:15.079709 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:44:15.145073 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:44:15.146277 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:44:15.146291 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:44:15.146307 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9181)
+[Thu Apr 12 20:44:15.146318 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9182)
+[Thu Apr 12 20:45:01.349966 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:45:01.413532 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:45:01.414738 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:45:01.414752 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:45:01.414774 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9290)
+[Thu Apr 12 20:45:01.414788 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9291)
+[Thu Apr 12 20:46:05.032334 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:46:05.095540 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:46:05.096809 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:46:05.096823 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:46:05.096840 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9443)
+[Thu Apr 12 20:46:05.096850 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9444)
+[Thu Apr 12 20:47:05.930106 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:47:05.943164 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:47:05.943992 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:47:05.944000 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:47:05.944011 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9556)
+[Thu Apr 12 20:47:05.944017 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9557)
+[Thu Apr 12 20:49:04.793779 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:49:04.855524 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:49:04.856802 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:49:04.856818 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:49:04.856836 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9667)
+[Thu Apr 12 20:49:04.856846 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9668)
+[Thu Apr 12 20:49:55.162967 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:49:55.228766 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:49:55.229972 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:49:55.229986 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:49:55.230002 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9782)
+[Thu Apr 12 20:49:55.230013 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9783)
+[Thu Apr 12 20:52:03.497781 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:52:03.563814 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:52:03.565069 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:52:03.565093 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:52:03.565110 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9943)
+[Thu Apr 12 20:52:03.565121 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 9944)
+[Thu Apr 12 20:52:07.863767 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:52:07.925218 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:52:07.926468 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:52:07.926481 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:52:07.926497 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10061)
+[Thu Apr 12 20:52:07.926507 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10062)
+[Thu Apr 12 20:52:18.605880 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:52:18.669225 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:52:18.670428 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:52:18.670441 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:52:18.670456 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10166)
+[Thu Apr 12 20:52:18.670467 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10167)
+[Thu Apr 12 20:53:01.757621 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 20:53:01.820365 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 20:53:01.821570 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 20:53:01.821583 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 20:53:01.821600 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10272)
+[Thu Apr 12 20:53:01.821611 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10273)
+[Thu Apr 12 21:11:33.312529 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 12 21:11:33.376807 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 12 21:11:33.378056 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 12 21:11:33.378070 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 12 21:11:33.378087 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10385)
+[Thu Apr 12 21:11:33.378098 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10386)
+[Fri Apr 13 06:25:01.853507 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Apr 13 06:25:01.917500 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Fri Apr 13 06:25:01.918677 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Apr 13 06:25:01.918688 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 13 06:25:01.918704 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10627)
+[Fri Apr 13 06:25:01.918715 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10628)
+[Sat Apr 14 06:25:01.366862 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat Apr 14 06:25:01.429363 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Sat Apr 14 06:25:01.430259 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Apr 14 06:25:01.430269 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Apr 14 06:25:01.430288 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 15284)
+[Sat Apr 14 06:25:01.430300 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 15285)
+[Sun Apr 15 06:25:02.181841 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 15 06:25:02.246343 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 15 06:25:02.247608 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 15 06:25:02.247623 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 15 06:25:02.247647 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 28147)
+[Sun Apr 15 06:25:02.247662 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 28148)
+[Mon Apr 16 06:25:02.061194 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Apr 16 06:25:02.124122 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Mon Apr 16 06:25:02.125384 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Apr 16 06:25:02.125398 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Apr 16 06:25:02.125422 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 5425)
+[Mon Apr 16 06:25:02.125438 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 5426)
+[Tue Apr 17 06:25:03.674282 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Apr 17 06:25:03.753838 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Tue Apr 17 06:25:03.769784 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Apr 17 06:25:03.781365 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 17 06:25:03.781395 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 20885)
+[Tue Apr 17 06:25:03.781409 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 20886)
+[Wed Apr 18 06:25:01.417219 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Apr 18 06:25:01.481877 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Wed Apr 18 06:25:01.483049 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Apr 18 06:25:01.483063 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 18 06:25:01.483086 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 20779)
+[Wed Apr 18 06:25:01.483102 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 20780)
+[Thu Apr 19 06:25:02.167405 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 19 06:25:02.228661 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 19 06:25:02.229717 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 19 06:25:02.229724 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 19 06:25:02.229741 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 1818)
+[Thu Apr 19 06:25:02.229750 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 1819)
+[Fri Apr 20 06:25:01.904440 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Apr 20 06:25:01.965923 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Fri Apr 20 06:25:01.967933 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Apr 20 06:25:01.967951 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 20 06:25:01.967976 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 16744)
+[Fri Apr 20 06:25:01.967994 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 16745)
+[Sat Apr 21 06:25:01.652584 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat Apr 21 06:25:01.716588 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Sat Apr 21 06:25:01.717786 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Apr 21 06:25:01.717801 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Apr 21 06:25:01.717824 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 30155)
+[Sat Apr 21 06:25:01.717849 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 30156)
+[Sun Apr 22 06:25:01.378307 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 22 06:25:01.438868 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 22 06:25:01.440164 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 22 06:25:01.440180 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 22 06:25:01.440203 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 6200)
+[Sun Apr 22 06:25:01.440218 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 6201)
+[Mon Apr 23 06:25:01.334105 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Apr 23 06:25:01.396189 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Mon Apr 23 06:25:01.397410 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Apr 23 06:25:01.397424 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Apr 23 06:25:01.397448 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 19749)
+[Mon Apr 23 06:25:01.397464 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 19750)
+[Tue Apr 24 06:25:02.834036 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Apr 24 06:25:02.898117 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Tue Apr 24 06:25:02.899411 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Apr 24 06:25:02.899426 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 24 06:25:02.899453 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 3242)
+[Tue Apr 24 06:25:02.899471 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 3243)
+[Tue Apr 24 11:28:04.513854 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Apr 24 11:28:04.578541 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Tue Apr 24 11:28:04.579658 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Apr 24 11:28:04.579671 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 24 11:28:04.579685 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 24494)
+[Tue Apr 24 11:28:04.579708 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 24495)
+[Tue Apr 24 11:29:22.988262 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Apr 24 11:29:23.051570 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Tue Apr 24 11:29:23.052865 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Apr 24 11:29:23.052879 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Apr 24 11:29:23.052896 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 28993)
+[Tue Apr 24 11:29:23.052906 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 28994)
+[Wed Apr 25 06:25:02.157085 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Apr 25 06:25:02.222086 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Wed Apr 25 06:25:02.223356 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Apr 25 06:25:02.223371 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Apr 25 06:25:02.223392 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 29102)
+[Wed Apr 25 06:25:02.223407 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 29103)
+[Thu Apr 26 06:25:01.916228 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Apr 26 06:25:01.978107 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Thu Apr 26 06:25:01.978793 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Apr 26 06:25:01.978802 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Apr 26 06:25:01.978818 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2612)
+[Thu Apr 26 06:25:01.978828 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 2613)
+[Fri Apr 27 06:25:01.670664 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Apr 27 06:25:01.735751 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Fri Apr 27 06:25:01.736536 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Apr 27 06:25:01.736544 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Apr 27 06:25:01.736560 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10865)
+[Fri Apr 27 06:25:01.736570 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 10866)
+[Sat Apr 28 06:25:01.397858 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat Apr 28 06:25:01.463194 2018] [lbmethod_heartbeat:notice] [pid 5190:tid 140333864418240] AH02282: No slotmem from mod_heartmonitor
+[Sat Apr 28 06:25:01.464505 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Apr 28 06:25:01.464521 2018] [core:notice] [pid 5190:tid 140333864418240] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Apr 28 06:25:01.464547 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 19563)
+[Sat Apr 28 06:25:01.464574 2018] [mpm_event:warn] [pid 5190:tid 140333864418240] AH00488: long lost child came home! (pid 19565)
+[Sat Apr 28 19:41:14.675764 2018] [mpm_event:notice] [pid 5190:tid 140333864418240] AH00491: caught SIGTERM, shutting down
+[Sat Apr 28 20:06:59.125058 2018] [lbmethod_heartbeat:notice] [pid 1216:tid 140532856650688] AH02282: No slotmem from mod_heartmonitor
+[Sat Apr 28 20:06:59.276008 2018] [mpm_event:notice] [pid 1216:tid 140532856650688] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Apr 28 20:06:59.276038 2018] [core:notice] [pid 1216:tid 140532856650688] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 06:25:03.502498 2018] [mpm_event:notice] [pid 1216:tid 140532856650688] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 06:25:03.566764 2018] [lbmethod_heartbeat:notice] [pid 1216:tid 140532856650688] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 06:25:03.567985 2018] [mpm_event:notice] [pid 1216:tid 140532856650688] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 06:25:03.567993 2018] [core:notice] [pid 1216:tid 140532856650688] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 06:25:03.568007 2018] [mpm_event:warn] [pid 1216:tid 140532856650688] AH00488: long lost child came home! (pid 1218)
+[Sun Apr 29 06:25:03.568017 2018] [mpm_event:warn] [pid 1216:tid 140532856650688] AH00488: long lost child came home! (pid 1219)
+[Sun Apr 29 15:08:32.401813 2018] [core:warn] [pid 1216:tid 140532856650688] AH00045: child process 5422 still did not exit, sending a SIGTERM
+[Sun Apr 29 15:08:34.403934 2018] [core:warn] [pid 1216:tid 140532856650688] AH00045: child process 5422 still did not exit, sending a SIGTERM
+[Sun Apr 29 15:08:36.406039 2018] [core:warn] [pid 1216:tid 140532856650688] AH00045: child process 5422 still did not exit, sending a SIGTERM
+[Sun Apr 29 15:08:38.408143 2018] [core:error] [pid 1216:tid 140532856650688] AH00046: child process 5422 still did not exit, sending a SIGKILL
+[Sun Apr 29 15:08:39.409268 2018] [mpm_event:notice] [pid 1216:tid 140532856650688] AH00491: caught SIGTERM, shutting down
+[Sun Apr 29 15:09:02.925924 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:09:02.927295 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:09:02.927319 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:17:25.533674 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:17:25.598686 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:17:25.599984 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:17:25.600000 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:17:25.600016 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 10303)
+[Sun Apr 29 15:17:25.600027 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 10304)
+[Sun Apr 29 15:21:53.086306 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:21:53.150969 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:21:53.152256 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:21:53.152271 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:21:53.152286 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 10563)
+[Sun Apr 29 15:21:53.152296 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 10564)
+[Sun Apr 29 15:24:10.029475 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:24:10.092037 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:24:10.093295 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:24:10.093309 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:24:10.093326 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 10738)
+[Sun Apr 29 15:24:10.093337 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 10739)
+[Sun Apr 29 15:29:27.730747 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:29:27.791648 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:29:27.792934 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:29:27.792949 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:29:27.792966 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 10889)
+[Sun Apr 29 15:29:27.792978 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 10890)
+[Sun Apr 29 15:31:49.004684 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:31:49.068375 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:31:49.069627 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:31:49.069641 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:31:49.069656 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11116)
+[Sun Apr 29 15:31:49.069667 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11117)
+[Sun Apr 29 15:32:13.970512 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:32:14.034075 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:32:14.035276 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:32:14.035290 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:32:14.035305 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11240)
+[Sun Apr 29 15:32:14.035327 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11241)
+[Sun Apr 29 15:35:09.029325 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:35:09.089794 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:35:09.091053 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:35:09.091068 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:35:09.091084 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11348)
+[Sun Apr 29 15:35:09.091095 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11349)
+[Sun Apr 29 15:35:31.261189 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:35:31.273533 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:35:31.274298 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:35:31.274306 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:35:31.274316 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11551)
+[Sun Apr 29 15:35:31.274323 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11552)
+[Sun Apr 29 15:35:44.777123 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:35:44.841638 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:35:44.842842 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:35:44.842855 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:35:44.842871 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11661)
+[Sun Apr 29 15:35:44.842882 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11662)
+[Sun Apr 29 15:35:54.575852 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:35:54.639657 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:35:54.640960 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:35:54.640975 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:35:54.640993 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11771)
+[Sun Apr 29 15:35:54.641004 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11772)
+[Sun Apr 29 15:36:08.812248 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:36:08.876951 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:36:08.878166 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:36:08.878178 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:36:08.878194 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11879)
+[Sun Apr 29 15:36:08.878205 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11880)
+[Sun Apr 29 15:36:37.141416 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:36:37.206813 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:36:37.208082 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:36:37.208097 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:36:37.208112 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11985)
+[Sun Apr 29 15:36:37.208123 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 11986)
+[Sun Apr 29 15:38:52.969373 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Apr 29 15:38:53.034701 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Apr 29 15:38:53.036012 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Apr 29 15:38:53.036027 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Apr 29 15:38:53.036043 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 12094)
+[Sun Apr 29 15:38:53.036054 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 12095)
+[Mon Apr 30 06:25:01.726380 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Apr 30 06:25:01.790070 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Mon Apr 30 06:25:01.790813 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Apr 30 06:25:01.790820 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Apr 30 06:25:01.790833 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 12287)
+[Mon Apr 30 06:25:01.790841 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 12288)
+[Tue May 01 06:25:01.436050 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue May 01 06:25:01.501350 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Tue May 01 06:25:01.501998 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue May 01 06:25:01.502009 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 01 06:25:01.502023 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 17828)
+[Tue May 01 06:25:01.502032 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 17829)
+[Wed May 02 06:25:01.324568 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed May 02 06:25:01.384644 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Wed May 02 06:25:01.385933 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed May 02 06:25:01.385947 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 02 06:25:01.385971 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 348)
+[Wed May 02 06:25:01.385985 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 349)
+[Thu May 03 06:25:02.064757 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu May 03 06:25:02.130295 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Thu May 03 06:25:02.131744 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu May 03 06:25:02.131761 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 03 06:25:02.131785 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 20603)
+[Thu May 03 06:25:02.131802 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 20604)
+[Fri May 04 06:25:01.765217 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri May 04 06:25:01.828499 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Fri May 04 06:25:01.829760 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri May 04 06:25:01.829774 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Fri May 04 06:25:01.829799 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 3038)
+[Fri May 04 06:25:01.829816 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 3039)
+[Sat May 05 06:25:01.470140 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat May 05 06:25:01.534797 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sat May 05 06:25:01.536173 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat May 05 06:25:01.536190 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sat May 05 06:25:01.536214 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 12124)
+[Sat May 05 06:25:01.536231 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 12125)
+[Sun May 06 06:25:02.185795 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun May 06 06:25:02.284176 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun May 06 06:25:02.284819 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 06 06:25:02.284826 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 06 06:25:02.284840 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 26913)
+[Sun May 06 06:25:02.284849 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 26914)
+[Mon May 07 06:25:01.710038 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon May 07 06:25:01.770832 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Mon May 07 06:25:01.772324 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon May 07 06:25:01.772342 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 07 06:25:01.772369 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 5445)
+[Mon May 07 06:25:01.772386 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 5446)
+[Tue May 08 06:25:01.866261 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue May 08 06:25:01.929356 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Tue May 08 06:25:01.930611 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue May 08 06:25:01.930625 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 08 06:25:01.930648 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 21734)
+[Tue May 08 06:25:01.930663 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 21735)
+[Wed May 09 06:25:01.513418 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed May 09 06:25:01.575578 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Wed May 09 06:25:01.576946 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed May 09 06:25:01.576963 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 09 06:25:01.576988 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 680)
+[Wed May 09 06:25:01.577004 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 681)
+[Thu May 10 06:25:01.216877 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu May 10 06:25:01.279591 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Thu May 10 06:25:01.281076 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu May 10 06:25:01.281091 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 10 06:25:01.281117 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 18349)
+[Thu May 10 06:25:01.281133 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 18350)
+[Fri May 11 06:25:01.925103 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri May 11 06:25:01.988848 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Fri May 11 06:25:01.990126 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri May 11 06:25:01.990140 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Fri May 11 06:25:01.990165 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 6189)
+[Fri May 11 06:25:01.990179 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 6191)
+[Sat May 12 06:25:01.608284 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat May 12 06:25:01.673755 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sat May 12 06:25:01.675095 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat May 12 06:25:01.675109 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sat May 12 06:25:01.675135 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 17697)
+[Sat May 12 06:25:01.675153 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 17698)
+[Sun May 13 06:25:01.333549 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun May 13 06:25:01.393966 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun May 13 06:25:01.396000 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 13 06:25:01.396022 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 13 06:25:01.396046 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 30459)
+[Sun May 13 06:25:01.396061 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 30460)
+[Mon May 14 06:25:01.313834 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon May 14 06:25:01.377542 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Mon May 14 06:25:01.378244 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon May 14 06:25:01.378252 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 14 06:25:01.378268 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 21136)
+[Mon May 14 06:25:01.378282 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 21137)
+[Tue May 15 06:25:04.888540 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue May 15 06:25:05.001228 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Tue May 15 06:25:05.014078 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue May 15 06:25:05.014093 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 15 06:25:05.014114 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 5932)
+[Tue May 15 06:25:05.014128 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 5934)
+[Wed May 16 06:25:01.326215 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed May 16 06:25:01.389612 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Wed May 16 06:25:01.390910 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed May 16 06:25:01.390924 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 16 06:25:01.390950 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 23976)
+[Wed May 16 06:25:01.390966 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 23977)
+[Thu May 17 06:25:02.205919 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu May 17 06:25:02.270900 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Thu May 17 06:25:02.272248 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu May 17 06:25:02.272265 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 17 06:25:02.272289 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 13856)
+[Thu May 17 06:25:02.272306 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 13857)
+[Fri May 18 06:25:01.858603 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri May 18 06:25:01.924564 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Fri May 18 06:25:01.925834 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri May 18 06:25:01.925848 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Fri May 18 06:25:01.925873 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 27516)
+[Fri May 18 06:25:01.925890 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 27517)
+[Sat May 19 06:25:01.571612 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat May 19 06:25:01.636954 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sat May 19 06:25:01.638198 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat May 19 06:25:01.638211 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sat May 19 06:25:01.638235 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 13950)
+[Sat May 19 06:25:01.638252 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 13951)
+[Sun May 20 06:25:01.350005 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun May 20 06:25:01.412497 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun May 20 06:25:01.413705 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 20 06:25:01.413720 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 20 06:25:01.413746 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 26574)
+[Sun May 20 06:25:01.413763 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 26575)
+[Mon May 21 06:25:02.127384 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon May 21 06:25:02.188603 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Mon May 21 06:25:02.189901 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon May 21 06:25:02.189916 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 21 06:25:02.189941 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 10844)
+[Mon May 21 06:25:02.189958 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 10845)
+[Tue May 22 06:25:01.610433 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue May 22 06:25:01.673279 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Tue May 22 06:25:01.674558 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue May 22 06:25:01.674573 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 22 06:25:01.674596 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 29598)
+[Tue May 22 06:25:01.674610 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 29599)
+[Wed May 23 06:25:01.306106 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed May 23 06:25:01.369671 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Wed May 23 06:25:01.370478 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed May 23 06:25:01.370486 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 23 06:25:01.370505 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 15788)
+[Wed May 23 06:25:01.370515 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 15789)
+[Thu May 24 06:25:02.018585 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu May 24 06:25:02.079817 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Thu May 24 06:25:02.081105 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu May 24 06:25:02.081120 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 24 06:25:02.081145 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 399)
+[Thu May 24 06:25:02.081162 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 400)
+[Fri May 25 06:25:01.750566 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri May 25 06:25:01.811632 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Fri May 25 06:25:01.813106 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri May 25 06:25:01.813123 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Fri May 25 06:25:01.813146 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 12088)
+[Fri May 25 06:25:01.813163 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 12089)
+[Sat May 26 06:25:01.433821 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat May 26 06:25:01.498086 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sat May 26 06:25:01.499368 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat May 26 06:25:01.499383 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sat May 26 06:25:01.499409 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 23264)
+[Sat May 26 06:25:01.499426 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 23265)
+[Sun May 27 06:25:02.133806 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun May 27 06:25:02.197966 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun May 27 06:25:02.198734 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun May 27 06:25:02.198742 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun May 27 06:25:02.198756 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 30974)
+[Sun May 27 06:25:02.198765 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 30976)
+[Mon May 28 06:25:01.318785 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon May 28 06:25:01.382803 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Mon May 28 06:25:01.384007 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon May 28 06:25:01.384021 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Mon May 28 06:25:01.384043 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 9395)
+[Mon May 28 06:25:01.384059 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 9396)
+[Tue May 29 06:25:02.049252 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue May 29 06:25:02.109870 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Tue May 29 06:25:02.110963 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue May 29 06:25:02.110977 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Tue May 29 06:25:02.111003 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 20952)
+[Tue May 29 06:25:02.111021 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 20953)
+[Wed May 30 06:25:01.762507 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed May 30 06:25:01.823298 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Wed May 30 06:25:01.825369 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed May 30 06:25:01.825386 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 30 06:25:01.825409 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 4587)
+[Wed May 30 06:25:01.825424 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 4588)
+[Thu May 31 06:25:01.485207 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu May 31 06:25:01.550518 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Thu May 31 06:25:01.551788 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu May 31 06:25:01.551803 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 31 06:25:01.551827 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 24028)
+[Thu May 31 06:25:01.551843 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 24029)
+[Fri Jun 01 06:25:01.263594 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Jun 01 06:25:01.327513 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 01 06:25:01.328803 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jun 01 06:25:01.328827 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jun 01 06:25:01.328861 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 1943)
+[Fri Jun 01 06:25:01.328884 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 1944)
+[Sat Jun 02 06:25:01.662801 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat Jun 02 06:25:01.726151 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sat Jun 02 06:25:01.727418 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Jun 02 06:25:01.727435 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jun 02 06:25:01.727467 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 18786)
+[Sat Jun 02 06:25:01.727492 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 18787)
+[Sun Jun 03 06:25:01.628579 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Jun 03 06:25:01.693715 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Sun Jun 03 06:25:01.694984 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Jun 03 06:25:01.694999 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jun 03 06:25:01.695024 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 25173)
+[Sun Jun 03 06:25:01.695041 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 25174)
+[Mon Jun 04 06:25:01.360620 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jun 04 06:25:01.424009 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Mon Jun 04 06:25:01.424762 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jun 04 06:25:01.424776 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jun 04 06:25:01.424799 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 1884)
+[Mon Jun 04 06:25:01.424814 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 1885)
+[Tue Jun 05 06:25:01.669804 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Jun 05 06:25:01.732616 2018] [lbmethod_heartbeat:notice] [pid 10298:tid 140095979199424] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 05 06:25:01.733414 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Jun 05 06:25:01.733429 2018] [core:notice] [pid 10298:tid 140095979199424] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 05 06:25:01.733465 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 8532)
+[Tue Jun 05 06:25:01.733501 2018] [mpm_event:warn] [pid 10298:tid 140095979199424] AH00488: long lost child came home! (pid 8533)
+[Tue Jun 05 21:23:24.634748 2018] [mpm_event:notice] [pid 10298:tid 140095979199424] AH00491: caught SIGTERM, shutting down
+[Tue Jun 05 21:24:19.038687 2018] [lbmethod_heartbeat:notice] [pid 1360:tid 139999710043072] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 05 21:24:19.053758 2018] [mpm_event:notice] [pid 1360:tid 139999710043072] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Jun 05 21:24:19.053774 2018] [core:notice] [pid 1360:tid 139999710043072] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 06 06:25:02.990446 2018] [mpm_event:notice] [pid 1360:tid 139999710043072] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Jun 06 06:25:03.052652 2018] [lbmethod_heartbeat:notice] [pid 1360:tid 139999710043072] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 06 06:25:03.053757 2018] [mpm_event:notice] [pid 1360:tid 139999710043072] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Jun 06 06:25:03.053772 2018] [core:notice] [pid 1360:tid 139999710043072] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 06 06:25:03.053803 2018] [mpm_event:warn] [pid 1360:tid 139999710043072] AH00488: long lost child came home! (pid 1362)
+[Wed Jun 06 06:25:03.053826 2018] [mpm_event:warn] [pid 1360:tid 139999710043072] AH00488: long lost child came home! (pid 1363)
+[Thu Jun 07 06:25:02.046171 2018] [mpm_event:notice] [pid 1360:tid 139999710043072] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Jun 07 06:25:02.109442 2018] [lbmethod_heartbeat:notice] [pid 1360:tid 139999710043072] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 07 06:25:02.110709 2018] [mpm_event:notice] [pid 1360:tid 139999710043072] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Jun 07 06:25:02.110723 2018] [core:notice] [pid 1360:tid 139999710043072] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jun 07 06:25:02.110749 2018] [mpm_event:warn] [pid 1360:tid 139999710043072] AH00488: long lost child came home! (pid 11431)
+[Thu Jun 07 06:25:02.110766 2018] [mpm_event:warn] [pid 1360:tid 139999710043072] AH00488: long lost child came home! (pid 11432)
+[Thu Jun 07 12:45:24.135460 2018] [mpm_event:notice] [pid 1360:tid 139999710043072] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Jun 07 12:45:24.199138 2018] [lbmethod_heartbeat:notice] [pid 1360:tid 139999710043072] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 07 12:45:24.200421 2018] [mpm_event:notice] [pid 1360:tid 139999710043072] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Jun 07 12:45:24.200437 2018] [core:notice] [pid 1360:tid 139999710043072] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jun 07 12:45:24.200454 2018] [mpm_event:warn] [pid 1360:tid 139999710043072] AH00488: long lost child came home! (pid 22199)
+[Thu Jun 07 12:45:24.200465 2018] [mpm_event:warn] [pid 1360:tid 139999710043072] AH00488: long lost child came home! (pid 22200)
+[Thu Jun 07 14:01:48.920023 2018] [mpm_event:notice] [pid 1360:tid 139999710043072] AH00491: caught SIGTERM, shutting down
+[Thu Jun 07 14:05:04.798172 2018] [lbmethod_heartbeat:notice] [pid 7345:tid 140444102527936] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 07 14:05:04.800182 2018] [mpm_event:notice] [pid 7345:tid 140444102527936] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Jun 07 14:05:04.800204 2018] [core:notice] [pid 7345:tid 140444102527936] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jun 08 06:25:01.799166 2018] [mpm_event:notice] [pid 7345:tid 140444102527936] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Jun 08 06:25:01.870171 2018] [lbmethod_heartbeat:notice] [pid 7345:tid 140444102527936] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 08 06:25:01.870953 2018] [mpm_event:notice] [pid 7345:tid 140444102527936] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jun 08 06:25:01.870961 2018] [core:notice] [pid 7345:tid 140444102527936] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jun 08 06:25:01.870977 2018] [mpm_event:warn] [pid 7345:tid 140444102527936] AH00488: long lost child came home! (pid 7348)
+[Fri Jun 08 06:25:01.870986 2018] [mpm_event:warn] [pid 7345:tid 140444102527936] AH00488: long lost child came home! (pid 7349)
+[Fri Jun 08 21:15:53.610650 2018] [mpm_event:error] [pid 7345:tid 140444102527936] AH00484: server reached MaxRequestWorkers setting, consider raising the MaxRequestWorkers setting
+[Sat Jun 09 05:00:41.220594 2018] [mpm_event:notice] [pid 7345:tid 140444102527936] AH00491: caught SIGTERM, shutting down
+[Sat Jun 09 11:29:39.979984 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Sat Jun 09 11:29:40.224054 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Jun 09 11:29:40.224084 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jun 10 06:25:03.072815 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Jun 10 06:25:03.135687 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Sun Jun 10 06:25:03.136859 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Jun 10 06:25:03.136882 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jun 10 06:25:03.136910 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 1610)
+[Sun Jun 10 06:25:03.136933 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 1611)
+[Mon Jun 11 06:25:01.938982 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jun 11 06:25:01.999484 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Mon Jun 11 06:25:02.000717 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jun 11 06:25:02.000735 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jun 11 06:25:02.000758 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 27734)
+[Mon Jun 11 06:25:02.000773 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 27735)
+[Tue Jun 12 06:25:01.858332 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Jun 12 06:25:01.917796 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 12 06:25:01.918569 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Jun 12 06:25:01.918577 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 12 06:25:01.918600 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 25210)
+[Tue Jun 12 06:25:01.918609 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 25211)
+[Wed Jun 13 06:25:01.845416 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Jun 13 06:25:01.909640 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 13 06:25:01.910463 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Jun 13 06:25:01.910472 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 13 06:25:01.910486 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 23402)
+[Wed Jun 13 06:25:01.910496 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 23403)
+[Thu Jun 14 06:25:02.782951 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Jun 14 06:25:02.848977 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 14 06:25:02.849730 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Jun 14 06:25:02.849737 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jun 14 06:25:02.849751 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 26542)
+[Thu Jun 14 06:25:02.849759 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 26543)
+[Fri Jun 15 06:25:01.449696 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Jun 15 06:25:01.512204 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 15 06:25:01.513662 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jun 15 06:25:01.513678 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jun 15 06:25:01.513702 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 26242)
+[Fri Jun 15 06:25:01.513719 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 26243)
+[Sat Jun 16 06:25:01.456775 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat Jun 16 06:25:01.521190 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Sat Jun 16 06:25:01.521941 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Jun 16 06:25:01.521950 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jun 16 06:25:01.521962 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 25681)
+[Sat Jun 16 06:25:01.521970 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 25682)
+[Sun Jun 17 06:25:01.450264 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Jun 17 06:25:01.511576 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Sun Jun 17 06:25:01.512365 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Jun 17 06:25:01.512373 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jun 17 06:25:01.512386 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 16238)
+[Sun Jun 17 06:25:01.512396 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 16239)
+[Mon Jun 18 06:25:01.497836 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jun 18 06:25:01.560571 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Mon Jun 18 06:25:01.561327 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jun 18 06:25:01.561336 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jun 18 06:25:01.561351 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 15359)
+[Mon Jun 18 06:25:01.561360 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 15360)
+[Tue Jun 19 06:25:02.305656 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Jun 19 06:25:02.369369 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 19 06:25:02.370134 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Jun 19 06:25:02.370143 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 19 06:25:02.370163 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 12850)
+[Tue Jun 19 06:25:02.370178 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 12851)
+[Tue Jun 19 16:59:12.347465 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Jun 19 16:59:12.409467 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 19 16:59:12.410154 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Jun 19 16:59:12.410162 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 19 16:59:12.410176 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 23753)
+[Tue Jun 19 16:59:12.410185 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 23754)
+[Tue Jun 19 17:00:49.328020 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Jun 19 17:00:49.393594 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 19 17:00:49.394911 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Jun 19 17:00:49.394936 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 19 17:00:49.394959 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 4340)
+[Tue Jun 19 17:00:49.394973 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 4341)
+[Wed Jun 20 06:25:01.776996 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Jun 20 06:25:01.838643 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 20 06:25:01.839461 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Jun 20 06:25:01.839470 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 20 06:25:01.839484 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 4483)
+[Wed Jun 20 06:25:01.839493 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 4484)
+[Wed Jun 20 13:49:53.381267 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Jun 20 13:49:53.444930 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 20 13:49:53.446264 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Jun 20 13:49:53.446280 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 20 13:49:53.446302 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 19696)
+[Wed Jun 20 13:49:53.446317 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 19697)
+[Thu Jun 21 06:25:02.061878 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Jun 21 06:25:02.126898 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 21 06:25:02.127799 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Jun 21 06:25:02.127809 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jun 21 06:25:02.127821 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 12157)
+[Thu Jun 21 06:25:02.127829 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 12158)
+[Fri Jun 22 06:25:01.423343 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Jun 22 06:25:01.489458 2018] [lbmethod_heartbeat:notice] [pid 1608:tid 140345951996864] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 22 06:25:01.490820 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jun 22 06:25:01.490835 2018] [core:notice] [pid 1608:tid 140345951996864] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jun 22 06:25:01.490863 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 10161)
+[Fri Jun 22 06:25:01.490881 2018] [mpm_event:warn] [pid 1608:tid 140345951996864] AH00488: long lost child came home! (pid 10162)
+[Fri Jun 22 10:40:13.135107 2018] [mpm_event:notice] [pid 1608:tid 140345951996864] AH00491: caught SIGTERM, shutting down
+[Fri Jun 22 10:40:16.237081 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 22 10:40:16.238724 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jun 22 10:40:16.238748 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jun 22 10:49:12.580027 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Jun 22 10:49:12.646040 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 22 10:49:12.647389 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jun 22 10:49:12.647405 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jun 22 10:49:12.647421 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 24167)
+[Fri Jun 22 10:49:12.647433 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 24168)
+[Fri Jun 22 10:53:25.834295 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Jun 22 10:53:25.894724 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 22 10:53:25.895965 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jun 22 10:53:25.895980 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jun 22 10:53:25.895995 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 24530)
+[Fri Jun 22 10:53:25.896006 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 24531)
+[Sat Jun 23 21:14:08.199482 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat Jun 23 21:14:08.263116 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Sat Jun 23 21:14:08.264490 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Jun 23 21:14:08.264506 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jun 23 21:14:08.264530 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 24717)
+[Sat Jun 23 21:14:08.264546 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 24718)
+[Sun Jun 24 06:25:01.414119 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Jun 24 06:25:01.476248 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Sun Jun 24 06:25:01.477132 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Jun 24 06:25:01.477140 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jun 24 06:25:01.477152 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 10718)
+[Sun Jun 24 06:25:01.477165 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 10719)
+[Mon Jun 25 06:25:01.880821 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jun 25 06:25:01.946082 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Mon Jun 25 06:25:01.946937 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jun 25 06:25:01.946945 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jun 25 06:25:01.946959 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 20298)
+[Mon Jun 25 06:25:01.946968 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 20299)
+[Tue Jun 26 06:25:01.995789 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Jun 26 06:25:02.059566 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Tue Jun 26 06:25:02.060342 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Jun 26 06:25:02.060350 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jun 26 06:25:02.060365 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 18704)
+[Tue Jun 26 06:25:02.060374 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 18705)
+[Wed Jun 27 06:25:01.934003 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Jun 27 06:25:01.997341 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Wed Jun 27 06:25:01.998171 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Jun 27 06:25:01.998179 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jun 27 06:25:01.998193 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 20007)
+[Wed Jun 27 06:25:01.998203 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 20008)
+[Thu Jun 28 06:25:01.977888 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Jun 28 06:25:02.043247 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Thu Jun 28 06:25:02.044141 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Jun 28 06:25:02.044150 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jun 28 06:25:02.044164 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 16916)
+[Thu Jun 28 06:25:02.044174 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 16917)
+[Fri Jun 29 06:25:01.874572 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Jun 29 06:25:01.934405 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Fri Jun 29 06:25:01.935278 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jun 29 06:25:01.935285 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jun 29 06:25:01.935306 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 19453)
+[Fri Jun 29 06:25:01.935321 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 19454)
+[Sat Jun 30 06:25:01.716984 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat Jun 30 06:25:01.781375 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Sat Jun 30 06:25:01.782214 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Jun 30 06:25:01.782221 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jun 30 06:25:01.782236 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 21736)
+[Sat Jun 30 06:25:01.782246 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 21737)
+[Sun Jul 01 06:25:01.536303 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Jul 01 06:25:01.599315 2018] [lbmethod_heartbeat:notice] [pid 24162:tid 140500012678080] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 01 06:25:01.600748 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Jul 01 06:25:01.600764 2018] [core:notice] [pid 24162:tid 140500012678080] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jul 01 06:25:01.600786 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 25256)
+[Sun Jul 01 06:25:01.600801 2018] [mpm_event:warn] [pid 24162:tid 140500012678080] AH00488: long lost child came home! (pid 25257)
+[Sun Jul 01 12:11:18.741683 2018] [mpm_event:notice] [pid 24162:tid 140500012678080] AH00491: caught SIGTERM, shutting down
+[Sun Jul 01 12:12:23.173590 2018] [lbmethod_heartbeat:notice] [pid 2036:tid 140412343274432] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 01 12:12:23.192044 2018] [mpm_event:notice] [pid 2036:tid 140412343274432] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Jul 01 12:12:23.192059 2018] [core:notice] [pid 2036:tid 140412343274432] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jul 01 13:00:33.665912 2018] [mpm_event:notice] [pid 2036:tid 140412343274432] AH00491: caught SIGTERM, shutting down
+[Sun Jul 01 13:22:19.665420 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 01 13:22:19.720717 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Jul 01 13:22:19.720747 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 02 06:25:04.405948 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jul 02 06:25:04.470155 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 02 06:25:04.471564 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jul 02 06:25:04.471592 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 02 06:25:04.471625 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 2031)
+[Mon Jul 02 06:25:04.471649 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 2032)
+[Mon Jul 02 18:15:23.263370 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jul 02 18:15:23.328374 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 02 18:15:23.329803 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jul 02 18:15:23.329820 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 02 18:15:23.329845 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 28205)
+[Mon Jul 02 18:15:23.329861 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 28206)
+[Mon Jul 02 18:17:26.647744 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jul 02 18:17:26.711139 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 02 18:17:26.712523 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jul 02 18:17:26.712538 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 02 18:17:26.712554 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 11440)
+[Mon Jul 02 18:17:26.712565 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 11441)
+[Mon Jul 02 18:18:50.606778 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jul 02 18:18:50.671088 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 02 18:18:50.672404 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jul 02 18:18:50.672419 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 02 18:18:50.672433 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 11690)
+[Mon Jul 02 18:18:50.672444 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 11691)
+[Mon Jul 02 18:21:23.891653 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jul 02 18:21:23.956160 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 02 18:21:23.957493 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jul 02 18:21:23.957508 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 02 18:21:23.957525 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 11975)
+[Mon Jul 02 18:21:23.957548 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 11976)
+[Mon Jul 02 18:21:59.891415 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jul 02 18:21:59.953498 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 02 18:21:59.954851 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jul 02 18:21:59.954866 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 02 18:21:59.954882 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 12413)
+[Mon Jul 02 18:21:59.954893 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 12414)
+[Mon Jul 02 18:22:27.579754 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jul 02 18:22:27.643357 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 02 18:22:27.644653 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jul 02 18:22:27.644666 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 02 18:22:27.644681 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 12663)
+[Mon Jul 02 18:22:27.644691 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 12664)
+[Mon Jul 02 18:24:39.559041 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jul 02 18:24:39.622431 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 02 18:24:39.623743 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jul 02 18:24:39.623757 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 02 18:24:39.623772 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 12784)
+[Mon Jul 02 18:24:39.623783 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 12785)
+[Tue Jul 03 06:25:01.234179 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Jul 03 06:25:01.297486 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Tue Jul 03 06:25:01.298834 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Jul 03 06:25:01.298848 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jul 03 06:25:01.298870 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 13048)
+[Tue Jul 03 06:25:01.298884 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 13049)
+[Wed Jul 04 06:25:01.960140 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Jul 04 06:25:02.024653 2018] [lbmethod_heartbeat:notice] [pid 2029:tid 140273030486976] AH02282: No slotmem from mod_heartmonitor
+[Wed Jul 04 06:25:02.025535 2018] [mpm_event:notice] [pid 2029:tid 140273030486976] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Jul 04 06:25:02.025544 2018] [core:notice] [pid 2029:tid 140273030486976] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jul 04 06:25:02.025560 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 27932)
+[Wed Jul 04 06:25:02.025569 2018] [mpm_event:warn] [pid 2029:tid 140273030486976] AH00488: long lost child came home! (pid 27933)
+[Wed Jul 04 18:15:00.953551 2018] [lbmethod_heartbeat:notice] [pid 1946:tid 140268235717568] AH02282: No slotmem from mod_heartmonitor
+[Wed Jul 04 18:15:00.967037 2018] [mpm_event:notice] [pid 1946:tid 140268235717568] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Jul 04 18:15:00.967053 2018] [core:notice] [pid 1946:tid 140268235717568] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jul 05 06:25:04.429142 2018] [mpm_event:notice] [pid 1946:tid 140268235717568] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Jul 05 06:25:04.492951 2018] [lbmethod_heartbeat:notice] [pid 1946:tid 140268235717568] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 05 06:25:04.494401 2018] [mpm_event:notice] [pid 1946:tid 140268235717568] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Jul 05 06:25:04.494416 2018] [core:notice] [pid 1946:tid 140268235717568] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jul 05 06:25:04.494447 2018] [mpm_event:warn] [pid 1946:tid 140268235717568] AH00488: long lost child came home! (pid 1948)
+[Thu Jul 05 06:25:04.494469 2018] [mpm_event:warn] [pid 1946:tid 140268235717568] AH00488: long lost child came home! (pid 1949)
+[Fri Jul 06 06:25:01.245838 2018] [mpm_event:notice] [pid 1946:tid 140268235717568] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Jul 06 06:25:01.310618 2018] [lbmethod_heartbeat:notice] [pid 1946:tid 140268235717568] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 06 06:25:01.312085 2018] [mpm_event:notice] [pid 1946:tid 140268235717568] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 06 06:25:01.312101 2018] [core:notice] [pid 1946:tid 140268235717568] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 06 06:25:01.312127 2018] [mpm_event:warn] [pid 1946:tid 140268235717568] AH00488: long lost child came home! (pid 25227)
+[Fri Jul 06 06:25:01.312144 2018] [mpm_event:warn] [pid 1946:tid 140268235717568] AH00488: long lost child came home! (pid 25228)
+[Fri Jul 06 14:43:50.763319 2018] [mpm_event:notice] [pid 1946:tid 140268235717568] AH00491: caught SIGTERM, shutting down
+[Fri Jul 06 14:44:51.445828 2018] [lbmethod_heartbeat:notice] [pid 2051:tid 140072753920960] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 06 14:44:51.556352 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 06 14:44:51.556387 2018] [core:notice] [pid 2051:tid 140072753920960] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jul 07 06:25:04.762914 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat Jul 07 06:25:04.828649 2018] [lbmethod_heartbeat:notice] [pid 2051:tid 140072753920960] AH02282: No slotmem from mod_heartmonitor
+[Sat Jul 07 06:25:04.830048 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Jul 07 06:25:04.830062 2018] [core:notice] [pid 2051:tid 140072753920960] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jul 07 06:25:04.830107 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 2053)
+[Sat Jul 07 06:25:04.830132 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 2054)
+[Sun Jul 08 06:25:01.953617 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sun Jul 08 06:25:02.018177 2018] [lbmethod_heartbeat:notice] [pid 2051:tid 140072753920960] AH02282: No slotmem from mod_heartmonitor
+[Sun Jul 08 06:25:02.019593 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sun Jul 08 06:25:02.019609 2018] [core:notice] [pid 2051:tid 140072753920960] AH00094: Command line: '/usr/sbin/apache2'
+[Sun Jul 08 06:25:02.019634 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 24900)
+[Sun Jul 08 06:25:02.019651 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 24901)
+[Mon Jul 09 06:25:01.341258 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Mon Jul 09 06:25:01.405569 2018] [lbmethod_heartbeat:notice] [pid 2051:tid 140072753920960] AH02282: No slotmem from mod_heartmonitor
+[Mon Jul 09 06:25:01.406392 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Mon Jul 09 06:25:01.406399 2018] [core:notice] [pid 2051:tid 140072753920960] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Jul 09 06:25:01.406413 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 21873)
+[Mon Jul 09 06:25:01.406423 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 21874)
+[Tue Jul 10 06:25:01.621941 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Tue Jul 10 06:25:01.685474 2018] [lbmethod_heartbeat:notice] [pid 2051:tid 140072753920960] AH02282: No slotmem from mod_heartmonitor
+[Tue Jul 10 06:25:01.686399 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Tue Jul 10 06:25:01.686407 2018] [core:notice] [pid 2051:tid 140072753920960] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Jul 10 06:25:01.686422 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 20299)
+[Tue Jul 10 06:25:01.686432 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 20300)
+[Wed Jul 11 06:25:01.861929 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Wed Jul 11 06:25:01.924616 2018] [lbmethod_heartbeat:notice] [pid 2051:tid 140072753920960] AH02282: No slotmem from mod_heartmonitor
+[Wed Jul 11 06:25:01.925461 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Wed Jul 11 06:25:01.925468 2018] [core:notice] [pid 2051:tid 140072753920960] AH00094: Command line: '/usr/sbin/apache2'
+[Wed Jul 11 06:25:01.925481 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 22712)
+[Wed Jul 11 06:25:01.925490 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 22713)
+[Thu Jul 12 06:25:02.101769 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Thu Jul 12 06:25:02.162176 2018] [lbmethod_heartbeat:notice] [pid 2051:tid 140072753920960] AH02282: No slotmem from mod_heartmonitor
+[Thu Jul 12 06:25:02.163019 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Thu Jul 12 06:25:02.163026 2018] [core:notice] [pid 2051:tid 140072753920960] AH00094: Command line: '/usr/sbin/apache2'
+[Thu Jul 12 06:25:02.163041 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 22643)
+[Thu Jul 12 06:25:02.163050 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 22644)
+[Fri Jul 13 06:25:01.325202 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Fri Jul 13 06:25:01.389469 2018] [lbmethod_heartbeat:notice] [pid 2051:tid 140072753920960] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 13 06:25:01.390298 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 13 06:25:01.390306 2018] [core:notice] [pid 2051:tid 140072753920960] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 13 06:25:01.390327 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 21606)
+[Fri Jul 13 06:25:01.390337 2018] [mpm_event:warn] [pid 2051:tid 140072753920960] AH00488: long lost child came home! (pid 21607)
+[Fri Jul 13 21:08:06.660340 2018] [mpm_event:notice] [pid 2051:tid 140072753920960] AH00491: caught SIGTERM, shutting down
+[Fri Jul 13 21:09:07.751829 2018] [lbmethod_heartbeat:notice] [pid 2037:tid 140092807166912] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 13 21:09:07.766358 2018] [mpm_event:notice] [pid 2037:tid 140092807166912] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 13 21:09:07.766384 2018] [core:notice] [pid 2037:tid 140092807166912] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 13 21:11:00.958292 2018] [mpm_event:notice] [pid 2037:tid 140092807166912] AH00491: caught SIGTERM, shutting down
+[Fri Jul 13 21:39:50.894278 2018] [lbmethod_heartbeat:notice] [pid 1995:tid 139905986186176] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 13 21:39:51.069039 2018] [mpm_event:notice] [pid 1995:tid 139905986186176] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 13 21:39:51.069088 2018] [core:notice] [pid 1995:tid 139905986186176] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 13 21:42:15.339379 2018] [mpm_event:notice] [pid 1995:tid 139905986186176] AH00491: caught SIGTERM, shutting down
+[Fri Jul 13 21:43:51.146426 2018] [lbmethod_heartbeat:notice] [pid 1914:tid 140601348430784] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 13 21:43:51.318497 2018] [mpm_event:notice] [pid 1914:tid 140601348430784] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 13 21:43:51.318514 2018] [core:notice] [pid 1914:tid 140601348430784] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 13 21:49:13.096638 2018] [mpm_event:notice] [pid 1914:tid 140601348430784] AH00491: caught SIGTERM, shutting down
+[Fri Jul 13 21:52:29.068999 2018] [lbmethod_heartbeat:notice] [pid 1994:tid 139977388399552] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 13 21:52:29.149826 2018] [mpm_event:notice] [pid 1994:tid 139977388399552] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 13 21:52:29.149846 2018] [core:notice] [pid 1994:tid 139977388399552] AH00094: Command line: '/usr/sbin/apache2'
+[Fri Jul 13 21:54:11.871750 2018] [mpm_event:notice] [pid 1994:tid 139977388399552] AH00491: caught SIGTERM, shutting down
+[Fri Jul 13 22:02:28.243592 2018] [lbmethod_heartbeat:notice] [pid 2053:tid 139632864725952] AH02282: No slotmem from mod_heartmonitor
+[Fri Jul 13 22:02:28.317475 2018] [mpm_event:notice] [pid 2053:tid 139632864725952] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Fri Jul 13 22:02:28.317507 2018] [core:notice] [pid 2053:tid 139632864725952] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jul 14 06:25:01.633103 2018] [mpm_event:notice] [pid 2053:tid 139632864725952] AH00493: SIGUSR1 received.  Doing graceful restart
+AH00112: Warning: DocumentRoot [/etc/apache2/http:/192.168.1.100:80/] does not exist
+[Sat Jul 14 06:25:01.698438 2018] [lbmethod_heartbeat:notice] [pid 2053:tid 139632864725952] AH02282: No slotmem from mod_heartmonitor
+[Sat Jul 14 06:25:01.699839 2018] [mpm_event:notice] [pid 2053:tid 139632864725952] AH00489: Apache/2.4.27 (Ubuntu) mod_jk/1.2.42 OpenSSL/1.0.2g configured -- resuming normal operations
+[Sat Jul 14 06:25:01.699855 2018] [core:notice] [pid 2053:tid 139632864725952] AH00094: Command line: '/usr/sbin/apache2'
+[Sat Jul 14 06:25:01.699887 2018] [mpm_event:warn] [pid 2053:tid 139632864725952] AH00488: long lost child came home! (pid 2055)
+[Sat Jul 14 06:25:01.699910 2018] [mpm_event:warn] [pid 2053:tid 139632864725952] AH00488: long lost child came home! (pid 2056)
