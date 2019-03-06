@@ -1,0 +1,21 @@
+#Alias /SaludFamiliar /mnt/webshared/http/mapnet/MAPNET_SaludFamiliarEAR.ear/MAPNET_SaludFamiliar.war
+#Alias /SaludFamiliar /mnt/webshared/http/mapnet.desarrollos/MAPNET_SaludFamiliar_INST
+#PT00836398
+Alias /SitioWebFinal /var/www/SitioWebFinal
+
+##GI00250250
+#RewriteCond %{SERVER_PORT} 81
+RewriteCond %{REQUEST_URI} /SitioWebFinal
+#RewriteRule (.*) https://%{HTTP_HOST}$1
+
+ #Redirección para impedir el acceso de la aplicación por DMZ
+###<IfDefine dmz>
+ RewriteRule ^/SitioWebFinal/.* http://raspberrypidpm2.ddns.net/nodisponible.html [R,L]
+##</IfDefine>
+
+ ##<IfDefine rccm>
+   #RewriteRule ^/SaludFamiliar/.* http://www.mapfre.com/seguros/es/noDisponible2.html [R,L]
+##</IfDefine>
+
+###Alias /SaludFamiliar /mnt/webshared/http/mapnet/MAPNET_SaludFamiliarEAR.ear/MAPNET_SaludFamiliar.war
+

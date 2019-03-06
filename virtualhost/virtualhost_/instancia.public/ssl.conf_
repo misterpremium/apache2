@@ -1,0 +1,10 @@
+<VirtualHost *:443>
+	ServerName raspberrypidpm2.ddns.net
+	SSLEngine On
+#	SSLCertifaicateFile /etc/ssl/locatecerts/apache.pem
+       # SSLCertifaicateFile /etc/ssl/certs/danielpardo.crt
+        SSLCertificateKeyFile /etc/ssl/localcerts/apache.key
+
+
+</VirtualHost>
+

@@ -1,0 +1,7 @@
+RewriteEngine on
+#RewriteCond %HTTPS !=on
+#RewriteCond %{HTTP_HOST} =raspberrypidpm2.ddns.net
+
+RewriteRule ^/video$ ^/SitioWebFinal/docs/video.jsp
+ProxyPass /video http://raspberrypidpm2.ddns.net/SitioWebFinal/docs/video.jsp
+ProxyPassReverse  /video http://raspberrypidpm2.ddns.net/SitioWebFinal/docs/video.jsp

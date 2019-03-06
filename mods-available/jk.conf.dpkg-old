@@ -20,7 +20,7 @@
 
     # We need a workers file exactly once
     # and in the global server
-    JkWorkersFile /etc/libapache2-mod-jk/workers.properties
+    JkWorkersFile /etc/apache2/workers.properties
 
     # Our JK error log
     # You can (and should) use rotatelogs here
@@ -42,6 +42,12 @@
     # URLs, enable the option to prevent double encoding attacks.
     # Since: 1.2.24
     # JkOptions +RejectUnsafeURI
+
+    # This option will collapse multiple adjacent slashes
+    # in request URLs before looking for mount or unmount
+    # matches.
+    # Since: 1.2.41
+    # JkOptions +CollapseSlashesAll
 
     # After setting JkStripSession to "On", mod_jk will
     # strip all ";jsessionid=..." from request URLs it
@@ -69,12 +75,16 @@
     <Location /jk-status>
         # Inside Location we can omit the URL in JkMount
         JkMount jk-status
-        Require ip 127.0.0.1
+        Order deny,allow
+        Deny from all
+        Allow from 127.0.0.1
     </Location>
     <Location /jk-manager>
         # Inside Location we can omit the URL in JkMount
         JkMount jk-manager
-        Require ip 127.0.0.1
+        Order deny,allow
+        Deny from all
+        Allow from 127.0.0.1
     </Location>
 
     # If you want to put all mounts into an external file
